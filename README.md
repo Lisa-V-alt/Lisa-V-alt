@@ -1,5 +1,5 @@
 ## hi
-<div style="text-align: center;">
+<div style="text-align: right;">
   <img src="https://github.com/Lisa-V-alt/Lisa-V-alt/blob/main/catgif.gif" width="150" alt="Cat GIF">
 </div>
 
