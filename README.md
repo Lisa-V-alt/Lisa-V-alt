@@ -1,6 +1,6 @@
 # ✨Welcome to my profile!🐌
 
-<img src="https://github.com/Lisa-V-alt/Lisa-V-alt/blob/main/catgif.gif" width="100" alt="Cat GIF">
+<img src="https://github.com/Lisa-V-alt/Lisa-V-alt/blob/main/bunnies.gif" width="100" alt="Cat GIF">
 
 ## About me
 
